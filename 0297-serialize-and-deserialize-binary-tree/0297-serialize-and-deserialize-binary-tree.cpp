@@ -30,13 +30,18 @@ public:
         idx+=2;
         return NULL;
      }
-    string num="";
-    while(data[idx]!=','){
-    num+=data[idx];
-    idx++;
-}
-    idx++;
-    TreeNode* root=new TreeNode(stoi(num));
+     int val=0;
+     int sign=1;
+     if(data[idx] == '-') {
+        sign = -1;
+        idx++;
+    }
+     while(data[idx]!=','){
+        val=val*10+(data[idx]-'0');
+        idx++;
+     }
+     idx++;
+     TreeNode* root=new TreeNode(val*sign);
      root->left=solution2(data,idx);
      root->right=solution2(data,idx);
      return root;
