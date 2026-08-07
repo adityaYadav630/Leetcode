@@ -6,6 +6,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3731-find-missing-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adityaYadav630/Leetcode/tree/master/0437-path-sum-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaYadav630/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adityaYadav630/Leetcode/tree/master/0437-path-sum-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityaYadav630/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
@@ -85,6 +89,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -97,4 +102,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
