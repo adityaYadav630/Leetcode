@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 ## Breadth-First Search
 |  |
