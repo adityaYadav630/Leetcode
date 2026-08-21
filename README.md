@@ -22,6 +22,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -121,6 +122,7 @@
 | [0459-repeated-substring-pattern](https://github.com/adityaYadav630/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Breadth-First Search
@@ -184,6 +186,7 @@
 ## Counting
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
