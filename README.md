@@ -127,6 +127,7 @@
 | [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/adityaYadav630/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
