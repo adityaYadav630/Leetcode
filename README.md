@@ -118,6 +118,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityaYadav630/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
@@ -125,6 +126,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0459-repeated-substring-pattern](https://github.com/adityaYadav630/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
+| [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/adityaYadav630/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
