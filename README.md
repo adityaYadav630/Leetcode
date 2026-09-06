@@ -9,6 +9,7 @@
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityaYadav630/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -101,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityaYadav630/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityaYadav630/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 ## DP on Trees
 |  |
@@ -184,6 +187,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 | [3904-smallest-stable-index-ii](https://github.com/adityaYadav630/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String Matching
