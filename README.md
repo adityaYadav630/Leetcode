@@ -6,6 +6,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -102,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
@@ -130,6 +132,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityaYadav630/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
