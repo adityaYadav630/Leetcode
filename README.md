@@ -55,6 +55,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityaYadav630/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/adityaYadav630/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -76,6 +77,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/adityaYadav630/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -89,6 +91,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityaYadav630/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/adityaYadav630/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -135,6 +138,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
@@ -160,6 +164,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -241,4 +246,8 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityaYadav630/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/adityaYadav630/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
