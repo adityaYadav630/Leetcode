@@ -13,6 +13,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityaYadav630/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -33,6 +34,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -121,6 +124,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityaYadav630/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -256,5 +260,6 @@
 ## Recursion
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
