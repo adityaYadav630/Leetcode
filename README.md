@@ -123,6 +123,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityaYadav630/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 ## DP on Trees
@@ -255,6 +257,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -291,4 +294,12 @@
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
