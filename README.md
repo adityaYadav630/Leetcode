@@ -134,6 +134,7 @@
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityaYadav630/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/adityaYadav630/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Hash Function
 |  |
 | ------- |
