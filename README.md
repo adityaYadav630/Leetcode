@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -137,12 +139,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaYadav630/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -314,6 +318,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaYadav630/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Hash Function
 |  |
@@ -337,11 +342,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -350,4 +357,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
