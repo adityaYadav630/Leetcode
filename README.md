@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -37,6 +38,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -59,6 +61,7 @@
 | [0295-find-median-from-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -241,6 +244,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -295,6 +299,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -358,6 +363,7 @@
 | [0295-find-median-from-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
