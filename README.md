@@ -14,6 +14,7 @@
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/adityaYadav630/Leetcode/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaYadav630/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -366,6 +367,7 @@
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/adityaYadav630/Leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
