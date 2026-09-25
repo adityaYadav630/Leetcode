@@ -165,6 +165,7 @@
 | [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/adityaYadav630/Leetcode/tree/master/0507-perfect-number) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
+| [0728-self-dividing-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
