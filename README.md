@@ -159,6 +159,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/adityaYadav630/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/adityaYadav630/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/adityaYadav630/Leetcode/tree/master/0507-perfect-number) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/adityaYadav630/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/adityaYadav630/Leetcode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityaYadav630/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
@@ -340,6 +342,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/adityaYadav630/Leetcode/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
