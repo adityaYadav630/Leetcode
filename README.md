@@ -158,6 +158,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/adityaYadav630/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/adityaYadav630/Leetcode/tree/master/0507-perfect-number) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -299,6 +300,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -312,12 +314,14 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -355,10 +359,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
