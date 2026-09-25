@@ -160,6 +160,7 @@
 | [0258-add-digits](https://github.com/adityaYadav630/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/adityaYadav630/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/adityaYadav630/Leetcode/tree/master/0507-perfect-number) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/adityaYadav630/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adityaYadav630/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityaYadav630/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
