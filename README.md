@@ -115,6 +115,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/adityaYadav630/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaYadav630/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0367-valid-perfect-square](https://github.com/adityaYadav630/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -160,6 +161,7 @@
 | [0258-add-digits](https://github.com/adityaYadav630/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/adityaYadav630/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/adityaYadav630/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/adityaYadav630/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/adityaYadav630/Leetcode/tree/master/0507-perfect-number) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
