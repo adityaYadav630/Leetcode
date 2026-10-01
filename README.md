@@ -213,6 +213,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adityaYadav630/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -224,6 +225,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -455,4 +457,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
