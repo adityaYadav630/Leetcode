@@ -228,6 +228,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/adityaYadav630/Leetcode/tree/master/0058-length-of-last-word) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/adityaYadav630/Leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/adityaYadav630/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
