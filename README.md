@@ -223,6 +223,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adityaYadav630/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/adityaYadav630/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
@@ -238,6 +239,7 @@
 | [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -468,4 +470,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
