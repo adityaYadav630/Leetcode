@@ -229,6 +229,7 @@
 | [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaYadav630/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0880-decoded-string-at-index](https://github.com/adityaYadav630/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaYadav630/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/adityaYadav630/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
@@ -288,6 +290,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaYadav630/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
@@ -474,4 +477,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaYadav630/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
