@@ -57,6 +57,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaYadav630/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -279,6 +280,7 @@
 | [0295-find-median-from-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adityaYadav630/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Game Theory
 |  |
@@ -448,6 +451,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -485,4 +489,8 @@
 | [0020-valid-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaYadav630/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Queue
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
