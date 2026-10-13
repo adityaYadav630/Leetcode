@@ -37,6 +37,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaYadav630/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/adityaYadav630/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityaYadav630/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityaYadav630/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityaYadav630/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityaYadav630/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -88,6 +89,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityaYadav630/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
@@ -309,6 +311,7 @@
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityaYadav630/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adityaYadav630/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
