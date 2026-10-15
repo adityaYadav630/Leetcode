@@ -28,6 +28,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/adityaYadav630/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityaYadav630/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaYadav630/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityaYadav630/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -63,6 +64,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaYadav630/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityaYadav630/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -507,4 +509,12 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaYadav630/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaYadav630/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaYadav630/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
