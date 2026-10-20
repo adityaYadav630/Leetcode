@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaYadav630/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/adityaYadav630/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -85,6 +86,7 @@
 | [0347-top-k-frequent-elements](https://github.com/adityaYadav630/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/adityaYadav630/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -313,6 +315,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/adityaYadav630/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
@@ -526,4 +529,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityaYadav630/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/adityaYadav630/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
