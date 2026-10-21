@@ -286,6 +286,7 @@
 | [3271-hash-divided-string](https://github.com/adityaYadav630/Leetcode/tree/master/3271-hash-divided-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/adityaYadav630/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityaYadav630/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/adityaYadav630/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
