@@ -34,6 +34,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityaYadav630/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/adityaYadav630/Leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityaYadav630/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -97,6 +98,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaYadav630/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityaYadav630/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityaYadav630/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityaYadav630/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3731-find-missing-elements) |
@@ -313,6 +315,7 @@
 | [0295-find-median-from-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityaYadav630/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
