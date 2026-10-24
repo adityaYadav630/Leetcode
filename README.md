@@ -215,6 +215,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityaYadav630/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2235-add-two-integers](https://github.com/adityaYadav630/Leetcode/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/adityaYadav630/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/adityaYadav630/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adityaYadav630/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityaYadav630/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityaYadav630/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -282,6 +283,7 @@
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityaYadav630/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2409-count-days-spent-together](https://github.com/adityaYadav630/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/adityaYadav630/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaYadav630/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
