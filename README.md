@@ -18,6 +18,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/adityaYadav630/Leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -95,6 +96,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaYadav630/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -545,4 +547,9 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/adityaYadav630/Leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
