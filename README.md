@@ -212,6 +212,7 @@
 | [0836-rectangle-overlap](https://github.com/adityaYadav630/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/adityaYadav630/Leetcode/tree/master/1025-divisor-game) |
+| [1362-closest-divisors](https://github.com/adityaYadav630/Leetcode/tree/master/1362-closest-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityaYadav630/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
@@ -552,4 +553,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/adityaYadav630/Leetcode/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
