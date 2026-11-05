@@ -22,6 +22,7 @@
 | [1046-last-stone-weight](https://github.com/adityaYadav630/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaYadav630/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaYadav630/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -102,6 +103,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaYadav630/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaYadav630/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/adityaYadav630/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -163,6 +165,7 @@
 | [0754-reach-a-number](https://github.com/adityaYadav630/Leetcode/tree/master/0754-reach-a-number) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaYadav630/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaYadav630/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaYadav630/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
@@ -332,6 +335,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaYadav630/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/adityaYadav630/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/adityaYadav630/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
