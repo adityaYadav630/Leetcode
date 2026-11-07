@@ -291,6 +291,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/adityaYadav630/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/adityaYadav630/Leetcode/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/adityaYadav630/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0640-solve-the-equation](https://github.com/adityaYadav630/Leetcode/tree/master/0640-solve-the-equation) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/adityaYadav630/Leetcode/tree/master/0856-score-of-parentheses) |
