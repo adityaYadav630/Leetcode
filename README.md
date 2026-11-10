@@ -16,6 +16,7 @@
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0888-fair-candy-swap](https://github.com/adityaYadav630/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0942-di-string-match](https://github.com/adityaYadav630/Leetcode/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -66,6 +67,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0888-fair-candy-swap](https://github.com/adityaYadav630/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adityaYadav630/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -101,6 +103,7 @@
 | [0621-task-scheduler](https://github.com/adityaYadav630/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaYadav630/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adityaYadav630/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0888-fair-candy-swap](https://github.com/adityaYadav630/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/adityaYadav630/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/adityaYadav630/Leetcode/tree/master/1051-height-checker) |
@@ -166,6 +169,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/adityaYadav630/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adityaYadav630/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0754-reach-a-number](https://github.com/adityaYadav630/Leetcode/tree/master/0754-reach-a-number) |
+| [0888-fair-candy-swap](https://github.com/adityaYadav630/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/adityaYadav630/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/adityaYadav630/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityaYadav630/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
