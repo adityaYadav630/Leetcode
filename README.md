@@ -27,6 +27,7 @@
 | [1386-cinema-seat-allocation](https://github.com/adityaYadav630/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adityaYadav630/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaYadav630/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adityaYadav630/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2029-stone-game-ix](https://github.com/adityaYadav630/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityaYadav630/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityaYadav630/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -308,6 +309,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityaYadav630/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/adityaYadav630/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/adityaYadav630/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/adityaYadav630/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/adityaYadav630/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
