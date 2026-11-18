@@ -314,6 +314,7 @@
 | [1871-jump-game-vii](https://github.com/adityaYadav630/Leetcode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/adityaYadav630/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/adityaYadav630/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2129-capitalize-the-title](https://github.com/adityaYadav630/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityaYadav630/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/adityaYadav630/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/adityaYadav630/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
